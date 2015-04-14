@@ -26,3 +26,7 @@ C:\Users\KhaIT\Documents\Visual Studio 2012\Projects\Ass_ĐTĐM\Assignment\obj\D
 C:\Users\KhaIT\Documents\Visual Studio 2012\Projects\Ass_ĐTĐM\Assignment\bin\Debug\Assignment.exe
 C:\Users\KhaIT\Documents\Visual Studio 2012\Projects\Ass_ĐTĐM\Assignment\bin\Debug\Assignment.pdb
 C:\Users\KhaIT\Documents\Visual Studio 2012\Projects\Ass_ĐTĐM\Assignment\bin\Debug\Assignment.xml
+C:\Users\KhaIT\Documents\GitHub\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\KhaIT\Documents\GitHub\Assignment\obj\Debug\Assignment.exe
+C:\Users\KhaIT\Documents\GitHub\Assignment\obj\Debug\Assignment.xml
+C:\Users\KhaIT\Documents\GitHub\Assignment\obj\Debug\Assignment.pdb

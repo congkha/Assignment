@@ -30,6 +30,7 @@ Public Class Frmdangnhap
 
 
         End If
+        'congkha1212 vừa vào đây'
 
 
     End Sub
